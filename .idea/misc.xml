@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/../JavaWebStudy" />
+    <file type="web" url="file://$PROJECT_DIR$/../tomcat-demo1" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../JavaWeb/dalfour/pom.xml" />
+        <option value="$PROJECT_DIR$/../JavaWeb/dalfour_test/pom.xml" />
+        <option value="$PROJECT_DIR$/../JavaWeb/JavaWebStudy/pom.xml" />
+        <option value="$PROJECT_DIR$/study/pom.xml" />
+        <option value="$PROJECT_DIR$/JavaStudy/pom.xml" />
+        <option value="$PROJECT_DIR$/../JavaWebStudy/pom.xml" />
+        <option value="$PROJECT_DIR$/DalfourJavaStudy/pom.xml" />
+        <option value="$PROJECT_DIR$/../tomcat-demo1/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/../JavaWeb/dalfour/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
