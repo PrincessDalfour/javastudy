@@ -2,8 +2,6 @@ package AlgorithmDesign.fuck05;
 
 import java.util.*;
 
-
-
 public class Nibonacci {
 	public static void main(String[] args) {
 		int n = 26;
