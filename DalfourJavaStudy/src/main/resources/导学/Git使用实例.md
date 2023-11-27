@@ -39,7 +39,8 @@ git log
 
 版本回退：可以将当前仓库回退到历史的某个版本
 git reset --hard 版本号
-git add . git commit -m '描述'
+git add . 
+git commit -m '描述'
 git push -f origin master
 ```
 
@@ -92,5 +93,25 @@ git push -u origin about
 
 ```
 git branch -d 分支名
+```
+
+### 13.第一次使用
+
+```
+git config --global user.name "Dalfour"
+git config --global user.email "dalfour@163.com"
+git init
+git add .
+git commit -m '提交信息'
+git remote add origin https://gitee.com/dalfour/java-study.git
+git push -u origin master
+```
+
+### 14.第n次使用
+
+```
+git add .
+git commit -m '提交信息'
+git push origin master
 ```
 

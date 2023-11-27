@@ -9,7 +9,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e10ea3c9-1720-4c22-9b3c-8881ed153397" name="更改" comment="更改" />
+    <list default="true" id="e10ea3c9-1720-4c22-9b3c-8881ed153397" name="更改" comment="更改">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DalfourJavaStudy/src/main/resources/导学/Git使用实例.md" beforeDir="false" afterPath="$PROJECT_DIR$/DalfourJavaStudy/src/main/resources/导学/Git使用实例.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -349,6 +352,7 @@
       <workItem from="1700611617062" duration="446000" />
       <workItem from="1700748644045" duration="2743000" />
       <workItem from="1700763246436" duration="295000" />
+      <workItem from="1701012966272" duration="1390000" />
     </task>
     <servers />
   </component>
