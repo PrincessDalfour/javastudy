@@ -11,12 +11,35 @@
   <component name="ChangeListManager">
     <list default="true" id="e10ea3c9-1720-4c22-9b3c-8881ed153397" name="更改" comment="更改">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DalfourJavaStudy/src/main/resources/导学/Git使用实例.md" beforeDir="false" afterPath="$PROJECT_DIR$/DalfourJavaStudy/src/main/resources/导学/Git使用实例.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DalfourJavaStudy/src/main/java/DataStructureCourseDesign/PostfixExpression/ArithmeticExpressionEvaluator.java" beforeDir="false" afterPath="$PROJECT_DIR$/DalfourJavaStudy/src/main/java/DataStructureCourseDesign/PostfixExpression/ArithmeticExpressionEvaluator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DalfourJavaStudy/src/main/java/DesignPattern/damn05/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/DalfourJavaStudy/src/main/java/DesignPattern/damn05/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DalfourJavaStudy/src/main/java/TransferMajor/homework13/JdbcTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/DalfourJavaStudy/src/main/java/TransferMajor/homework13/JdbcTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DalfourJavaStudy/src/main/java/TransferMajor/homework13/SimpleDBDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/DalfourJavaStudy/src/main/java/TransferMajor/homework13/SimpleDBDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DalfourJavaStudy/target/classes/AlgorithmDesign/fuck05/Nibonacci.class" beforeDir="false" afterPath="$PROJECT_DIR$/DalfourJavaStudy/target/classes/AlgorithmDesign/fuck05/Nibonacci.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DalfourJavaStudy/target/classes/DesignPattern/damn05/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/DalfourJavaStudy/target/classes/DesignPattern/damn05/test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DalfourJavaStudy/target/classes/TransferMajor/homework13/Conn01.class" beforeDir="false" afterPath="$PROJECT_DIR$/DalfourJavaStudy/target/classes/TransferMajor/homework13/Conn01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DalfourJavaStudy/target/classes/TransferMajor/homework13/JdbcTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/DalfourJavaStudy/target/classes/TransferMajor/homework13/JdbcTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DalfourJavaStudy/target/classes/TransferMajor/homework13/JdbcTest02.class" beforeDir="false" afterPath="$PROJECT_DIR$/DalfourJavaStudy/target/classes/TransferMajor/homework13/JdbcTest02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DalfourJavaStudy/target/classes/TransferMajor/homework13/SimpleDBdemoMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/DalfourJavaStudy/target/classes/TransferMajor/homework13/SimpleDBdemoMethod.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DalfourJavaStudy/target/classes/TransferMajor/homework14/src/com/hao/dao/AddrDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/DalfourJavaStudy/target/classes/TransferMajor/homework14/src/com/hao/dao/AddrDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DalfourJavaStudy/target/classes/TransferMajor/homework14/src/com/hao/dao/StuDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/DalfourJavaStudy/target/classes/TransferMajor/homework14/src/com/hao/dao/StuDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DalfourJavaStudy/target/classes/TransferMajor/homework14/src/com/hao/dao/UserDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/DalfourJavaStudy/target/classes/TransferMajor/homework14/src/com/hao/dao/UserDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DalfourJavaStudy/target/classes/TransferMajor/homework14/src/com/hao/ui/Index.class" beforeDir="false" afterPath="$PROJECT_DIR$/DalfourJavaStudy/target/classes/TransferMajor/homework14/src/com/hao/ui/Index.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DalfourJavaStudy/target/classes/TransferMajor/homework14/src/com/hao/ui/SimpleMenu.class" beforeDir="false" afterPath="$PROJECT_DIR$/DalfourJavaStudy/target/classes/TransferMajor/homework14/src/com/hao/ui/SimpleMenu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DalfourJavaStudy/target/classes/TransferMajor/homework14/src/com/hao/ui/Update.class" beforeDir="false" afterPath="$PROJECT_DIR$/DalfourJavaStudy/target/classes/TransferMajor/homework14/src/com/hao/ui/Update.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DalfourJavaStudy/target/classes/TransferMajor/homework16/MultiClientSocket.class" beforeDir="false" afterPath="$PROJECT_DIR$/DalfourJavaStudy/target/classes/TransferMajor/homework16/MultiClientSocket.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DalfourJavaStudy/target/classes/TransferMajor/homework16/MultiSocketServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/DalfourJavaStudy/target/classes/TransferMajor/homework16/MultiSocketServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DalfourJavaStudy/target/classes/TransferMajor/homework3/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/DalfourJavaStudy/target/classes/TransferMajor/homework3/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DalfourJavaStudy/target/classes/TransferMajor/homework7/ExceptionDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/DalfourJavaStudy/target/classes/TransferMajor/homework7/ExceptionDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DalfourJavaStudy/target/classes/TransferMajor/homework7/ExceptionSelf.class" beforeDir="false" afterPath="$PROJECT_DIR$/DalfourJavaStudy/target/classes/TransferMajor/homework7/ExceptionSelf.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -53,9 +76,10 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="$PROJECT_DIR$/../../../../apache-maven-3.6.1" />
+        <option name="localRepository" value="D:\apache-maven-3.6.3\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../apache-maven-3.6.3" />
         <option name="useMavenConfig" value="true" />
-        <option name="userSettingsFile" value="D:\apache-maven-3.6.1\conf\settings.xml" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.3\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
   </component>
@@ -71,6 +95,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -86,7 +111,10 @@
     <property name="project.structure.last.edited" value="模块" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.22528736" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="showLigatures" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -112,7 +140,7 @@
       <recent name="DesignPattern.damn13" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.Nibonacci">
+  <component name="RunManager" selected="应用程序.SimpleDBDemo">
     <configuration name="AnimalTest" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TransferMajor.homework6.AnimalTest" />
       <module name="DalfourJavaStudy" />
@@ -140,6 +168,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="JdbcTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TransferMajor.homework13.JdbcTest01" />
+      <module name="DalfourJavaStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TransferMajor.homework13.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Nibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AlgorithmDesign.fuck05.Nibonacci" />
       <module name="DalfourJavaStudy" />
@@ -153,12 +194,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoShipLoading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AlgorithmDesign.fuck05.TwoShipLoading" />
+    <configuration name="SimpleDBDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TransferMajor.homework13.SimpleDBDemo" />
       <module name="DalfourJavaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AlgorithmDesign.fuck05.*" />
+          <option name="PATTERN" value="TransferMajor.homework13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,25 +207,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="dp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AlgorithmDesign.fuck05.dp" />
+    <configuration name="test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DesignPattern.damn02_2.test" />
       <module name="DalfourJavaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AlgorithmDesign.fuck05.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DesignPattern.damn05.test" />
-      <module name="DalfourJavaStudy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DesignPattern.damn05.*" />
+          <option name="PATTERN" value="DesignPattern.damn02_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -208,19 +236,19 @@
     <list>
       <item itemvalue="应用程序.test" />
       <item itemvalue="应用程序.AnimalTest" />
-      <item itemvalue="应用程序.test (2)" />
-      <item itemvalue="应用程序.dp" />
-      <item itemvalue="应用程序.TwoShipLoading" />
       <item itemvalue="应用程序.Fibonacci" />
       <item itemvalue="应用程序.Nibonacci" />
+      <item itemvalue="应用程序.test (1)" />
+      <item itemvalue="应用程序.JdbcTest01" />
+      <item itemvalue="应用程序.SimpleDBDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.SimpleDBDemo" />
+        <item itemvalue="应用程序.JdbcTest01" />
+        <item itemvalue="应用程序.test (1)" />
         <item itemvalue="应用程序.Nibonacci" />
         <item itemvalue="应用程序.Fibonacci" />
-        <item itemvalue="应用程序.TwoShipLoading" />
-        <item itemvalue="应用程序.dp" />
-        <item itemvalue="应用程序.test (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -353,6 +381,12 @@
       <workItem from="1700748644045" duration="2743000" />
       <workItem from="1700763246436" duration="295000" />
       <workItem from="1701012966272" duration="1390000" />
+      <workItem from="1701125138640" duration="951000" />
+      <workItem from="1701126110249" duration="9000" />
+      <workItem from="1701126698203" duration="1514000" />
+      <workItem from="1701288950276" duration="406000" />
+      <workItem from="1701292090450" duration="37000" />
+      <workItem from="1701293871844" duration="2052000" />
     </task>
     <servers />
   </component>
